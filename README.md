@@ -1,3 +1,3 @@
 # Certifications
 ### Latex Training Certificate
-![Latex Certificate](Latex certificate.jpeg)
+![Latex Certificate](Latex_certificate.jpeg)
